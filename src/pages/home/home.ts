@@ -59,5 +59,5 @@ export class HomePage {
       {page: DetailPage, params: user}
     ])
   }
-
+  
 }
